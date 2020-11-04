@@ -137,6 +137,36 @@ def dow_sum(weekly_inc, outputdir, start_date_title, end_date_title):
 	plt.savefig(outputdir + 'dow_incidents.png')
 	plt.clf()
 
+#-----------------------------------------------------------------------------------------------------------------------------------------------------------#
+#-----------------------------------------------------------------------------------------------------------------------------------------------------------#
+#-----------------------------------------------------------------------------------------------------------------------------------------------------------#
+def heatmap(weekly_inc, outputdir, start_date_title, end_date_title):
+	dfheatmap = weekly_inc
+	dfheatmap['DOW'] = pd.to_numeric(weekly_inc['DOW'], errors='coerce')
+
+	plt.figure(figsize=(10, 6))
+	# sns.set(style='darkgrid')
+	sns.set_style('ticks')
+	sns.color_palette('rocket')
+	h = sns.heatmap(
+		data=dfheatmap,
+		square=True,
+		linewidth=.05,
+		annot=True,
+		fmt='.0f',
+		yticklabels=['Sun', 'Mon', 'Tues', 'Wed', 'Thurs', 'Fri', 'Sat'])
+	h.set_xlabel(xlabel='Hour')
+	h.set_ylabel(ylabel='DOW')
+	h.set_title('Heatmap of Incidents by Hour, Week of ' + start_date_title + ' - ' + end_date_title)
+	plt.xticks(
+		rotation=90,
+		horizontalalignment='center',
+		fontweight='light',
+		fontsize='8')
+	plt.tight_layout()
+	plt.savefig(outputdir + 'heatmap.png')
+	plt.clf()
+
 
 
 #-----------------------------------------------------------------------------------------------------------------------------------------------------------#
@@ -153,7 +183,7 @@ if __name__ == '__main__':
 	args=parser.parse_args()
 
 	end_date = datetime.now().date() - timedelta(days=1)
-	start_date = end_date - timedelta(days=args.days)
+	start_date = end_date - timedelta(days=int(args.days))
 	end_date_run = end_date.strftime('%Y%m%d')
 	start_date_run = start_date.strftime('%Y%m%d')
 	start_date_title = start_date.strftime('%m/%d/%Y')
@@ -173,3 +203,4 @@ if __name__ == '__main__':
 	stopped_veh_per_camera(per_camera, outputdir, start_date_title, end_date_title)
 	congestion_per_camera(per_camera, outputdir, start_date_title, end_date_title)
 	dow_sum(weekly_inc, outputdir, start_date_title, end_date_title)
+	heatmap(weekly_inc, outputdir, start_date_title, end_date_title)
