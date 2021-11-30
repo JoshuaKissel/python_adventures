@@ -1,0 +1,292 @@
+streamDictionary.streamName,streamDictionary.streamSrc,latitude,longitude
+I-44 & I-240 N,https://stream.oktraffic.org/delay-stream/ae9692ba1a6dc8ca.stream/playlist.m3u8,35.39637,-97.57406
+I-44 & I-240 S,https://stream.oktraffic.org/delay-stream/66d848a449b2f008.stream/playlist.m3u8,35.39637,-97.57406
+I-44 & I-240 E,https://stream.oktraffic.org/delay-stream/befd2e64345293b7.stream/playlist.m3u8,35.39637,-97.57406
+I-44 & S59th E,https://stream.oktraffic.org/delay-stream/d0731f8bc0ab1765.stream/playlist.m3u8,35.40667,-97.57711
+I-44 & Airport Rd W,https://stream.oktraffic.org/delay-stream/313f6379137283d4.stream/playlist.m3u8,35.41717,-97.58037
+I-44 & Airport Rd N,https://stream.oktraffic.org/delay-stream/e9496cf3a12dcacc.stream/playlist.m3u8,35.41717,-97.58037
+I-44 & Airport Rd S,https://stream.oktraffic.org/delay-stream/4cd3343c2a986382.stream/playlist.m3u8,35.41717,-97.58037
+I-44 & Airport Rd,https://stream.oktraffic.org/delay-stream/b5e1062d5da5f024.stream/playlist.m3u8,35.41717,-97.58037
+I-44 & S29th N,https://stream.oktraffic.org/delay-stream/6d9cf6d67658735c.stream/playlist.m3u8,35.43513,-97.56993
+I-44 & S29th E,https://stream.oktraffic.org/delay-stream/d86bf0fd96420843.stream/playlist.m3u8,35.43513,-97.56993
+I-44 & S29th,https://stream.oktraffic.org/delay-stream/1caeceea378b2f11.stream/playlist.m3u8,35.43513,-97.56993
+I-44 & I-40 N,https://stream.oktraffic.org/delay-stream/d5f58ec3cb2e7d0e.stream/playlist.m3u8,35.45988315,-97.57485429
+I-44 & I-40 S,https://stream.oktraffic.org/delay-stream/a46033f77eaf69a4.stream/playlist.m3u8,35.45988315,-97.57485429
+I-44 & I-40 E,https://stream.oktraffic.org/delay-stream/a67b6702e3282201.stream/playlist.m3u8,35.45988315,-97.57485429
+I-44 & N10th N,https://stream.oktraffic.org/delay-stream/8b211e44635f21e9.stream/playlist.m3u8,35.47842,-97.57879
+I-44 & N10th S,https://stream.oktraffic.org/delay-stream/430f8b3475f82103.stream/playlist.m3u8,35.47842,-97.57879
+I-44 & N10th E,https://stream.oktraffic.org/delay-stream/deeb408fca52c177.stream/playlist.m3u8,35.47842,-97.57879
+I-44 & N10th W,https://stream.oktraffic.org/delay-stream/7e2b7a47a7cec825.stream/playlist.m3u8,35.47842,-97.57879
+I-44 & N23rd N,https://stream.oktraffic.org/delay-stream/186a4cc4c041da78.stream/playlist.m3u8,35.4932,-97.57904
+I-44 & N23rd S,https://stream.oktraffic.org/delay-stream/a2d4285d0cdd0ee5.stream/playlist.m3u8,35.4932,-97.57904
+I-44 & N23rd E,https://stream.oktraffic.org/delay-stream/d478eadae9464ecc.stream/playlist.m3u8,35.4932,-97.57904
+I-44 & SH-66 N,https://stream.oktraffic.org/delay-stream/eeb932a2e71dda53.stream/playlist.m3u8,35.51097978,-97.57564991
+I-44 & SH-66 W,https://stream.oktraffic.org/delay-stream/591b4b976370cc24.stream/playlist.m3u8,35.51097978,-97.57564991
+I-44 & SH-66 E,https://stream.oktraffic.org/delay-stream/c4c014f4c976b191.stream/playlist.m3u8,35.51097978,-97.57564991
+I-44 & SH-66 S,https://stream.oktraffic.org/delay-stream/aff63a42e1872a38.stream/playlist.m3u8,35.51097978,-97.57564991
+SH-74 & SH-3 N,https://stream.oktraffic.org/delay-stream/89201d32ad67d937.stream/playlist.m3u8,35.53269025,-97.57983148
+SH-74 & SH-3 S,https://stream.oktraffic.org/delay-stream/d7c139e91ee71363.stream/playlist.m3u8,35.53269025,-97.57983148
+SH-74 & SH-3 E,https://stream.oktraffic.org/delay-stream/0c65d024aa51dfc5.stream/playlist.m3u8,35.53269025,-97.57983148
+SH-74 & SH-3 W,https://stream.oktraffic.org/delay-stream/b7efabe353a74d3a.stream/playlist.m3u8,35.53269025,-97.57983148
+SH-74 & SH-3,https://stream.oktraffic.org/delay-stream/a323f01220e66c72.stream/playlist.m3u8,35.53269025,-97.57983148
+SH-74 & Britton N,https://stream.oktraffic.org/delay-stream/f3884e4047227e7f.stream/playlist.m3u8,35.56558,-97.57484
+SH-74 & Britton S,https://stream.oktraffic.org/delay-stream/959eaa7c9e1f370a.stream/playlist.m3u8,35.56558,-97.57484
+SH-74 & Britton E,https://stream.oktraffic.org/delay-stream/029d507be284a197.stream/playlist.m3u8,35.56558,-97.57484
+SH-74 & Hefner S,https://stream.oktraffic.org/delay-stream/9f9f96fb980728c6.stream/playlist.m3u8,35.58018,-97.57991
+SH-74 & Hefner,https://stream.oktraffic.org/delay-stream/4a0b3f46660597bf.stream/playlist.m3u8,35.58018,-97.57991
+SH-74 & Memorial S,https://stream.oktraffic.org/delay-stream/0129289c2d653de6.stream/playlist.m3u8,35.60948,-97.58505
+SH-74 & Memorial E,https://stream.oktraffic.org/delay-stream/9cecdcf6a8862a68.stream/playlist.m3u8,35.60948,-97.58505
+SH-74 & Memorial W,https://stream.oktraffic.org/delay-stream/b74532d2a2591c01.stream/playlist.m3u8,35.60948,-97.58505
+SH-74 & Memorial,https://stream.oktraffic.org/delay-stream/62e4678a845f50d4.stream/playlist.m3u8,35.60948,-97.58505
+I-40 & Meridian N,https://stream.oktraffic.org/delay-stream/f3dc1416f3d63e56.stream/playlist.m3u8,35.45997,-97.60125
+I-40 & Meridian S,https://stream.oktraffic.org/delay-stream/808232546519980a.stream/playlist.m3u8,35.45997,-97.60125
+I-40 & Meridian E,https://stream.oktraffic.org/delay-stream/2107674d0266df18.stream/playlist.m3u8,35.45997,-97.60125
+I-40 & Meridian W,https://stream.oktraffic.org/delay-stream/18b922656c564b61.stream/playlist.m3u8,35.45997,-97.60125
+I-40 & May E,https://stream.oktraffic.org/delay-stream/d88b358ca1a2a392.stream/playlist.m3u8,35.461165,-97.566121
+I-40 & May W,https://stream.oktraffic.org/delay-stream/135b41cdcc444367.stream/playlist.m3u8,35.461165,-97.566121
+I-40 & May N,https://stream.oktraffic.org/delay-stream/909f82afa7f4498b.stream/playlist.m3u8,35.461165,-97.566121
+I-40 & May S,https://stream.oktraffic.org/delay-stream/23a408bb307520f8.stream/playlist.m3u8,35.461165,-97.566121
+I-40 & May,https://stream.oktraffic.org/delay-stream/8f010d91dfdbaa76.stream/playlist.m3u8,35.461165,-97.566121
+I-40 & Agnew N,https://stream.oktraffic.org/delay-stream/52c08b507c132935.stream/playlist.m3u8,35.461126,-97.55554
+I-40 & Agnew E,https://stream.oktraffic.org/delay-stream/c6d6467368d683ee.stream/playlist.m3u8,35.461126,-97.55554
+I-40 & Agnew S,https://stream.oktraffic.org/delay-stream/c0c9952843ab8a30.stream/playlist.m3u8,35.461126,-97.55554
+I-40 & Penn W,https://stream.oktraffic.org/delay-stream/1daa5eba31d1b44f.stream/playlist.m3u8,35.461465,-97.546838
+I-40 & Penn,https://stream.oktraffic.org/delay-stream/113334a05cda2b28.stream/playlist.m3u8,35.461465,-97.546838
+I-40 & Western W,https://stream.oktraffic.org/delay-stream/4eca635c938336ac.stream/playlist.m3u8,35.458261,-97.531872
+I-40 & Western E,https://stream.oktraffic.org/delay-stream/fec374c1d676eccd.stream/playlist.m3u8,35.458261,-97.531872
+I-35 & N12th N,https://stream.oktraffic.org/delay-stream/7c63c0e989e6b4f4.stream/playlist.m3u8,35.34903757,-97.49519134
+I-35 & N12th S,https://stream.oktraffic.org/delay-stream/8104546d69f57ba9.stream/playlist.m3u8,35.34903757,-97.49519134
+I-35 & N12th W,https://stream.oktraffic.org/delay-stream/173118b272df96e7.stream/playlist.m3u8,35.34903757,-97.49519134
+I-35 & N27th N,https://stream.oktraffic.org/delay-stream/ded9c8f4de0f997b.stream/playlist.m3u8,35.36284253,-97.49503711
+I-35 & N27th E,https://stream.oktraffic.org/delay-stream/786955f80e59d724.stream/playlist.m3u8,35.36284253,-97.49503711
+I-35 & N27th W,https://stream.oktraffic.org/delay-stream/0c6e310191170fc9.stream/playlist.m3u8,35.36284253,-97.49503711
+I-35 & N27th,https://stream.oktraffic.org/delay-stream/8b9519ccc2b031dc.stream/playlist.m3u8,35.36284253,-97.49503711
+I-35 & S89th N,https://stream.oktraffic.org/delay-stream/2dc86c53c799b9e0.stream/playlist.m3u8,35.37616664,-97.49522554
+I-35 & S89th S,https://stream.oktraffic.org/delay-stream/3c52c11ec2e0788e.stream/playlist.m3u8,35.37616664,-97.49522554
+I-35 & I-240 N,https://stream.oktraffic.org/delay-stream/7189d0f8fb310b3a.stream/playlist.m3u8,35.39194957,-97.49464618
+I-35 & I-240 E,https://stream.oktraffic.org/delay-stream/0c0f1e28b99acde3.stream/playlist.m3u8,35.39194957,-97.49464618
+I-35 & I-240 W,https://stream.oktraffic.org/delay-stream/269a4f5caa5d7b50.stream/playlist.m3u8,35.39194957,-97.49464618
+I-35 & S59th S,https://stream.oktraffic.org/delay-stream/5e50d025bd74ce9a.stream/playlist.m3u8,35.40679572,-97.49404
+I-35 & S59th N,https://stream.oktraffic.org/delay-stream/625ef5c1082a58c6.stream/playlist.m3u8,35.40679572,-97.49404
+I-35 & S36th S,https://stream.oktraffic.org/delay-stream/aeba2a9d3ab710ae.stream/playlist.m3u8,35.427937,-97.485684
+I-35 & S36th,https://stream.oktraffic.org/delay-stream/02afda84e95b3390.stream/playlist.m3u8,35.427937,-97.485684
+I-35 & S29th N,https://stream.oktraffic.org/delay-stream/1d2ad53749250f4d.stream/playlist.m3u8,35.435499,-97.485824
+I-35 & S29th W,https://stream.oktraffic.org/delay-stream/b5c441374b4ac159.stream/playlist.m3u8,35.435499,-97.485824
+I-35 & S29th S,https://stream.oktraffic.org/delay-stream/81efd9142e579921.stream/playlist.m3u8,35.435499,-97.485824
+I-35 & S29th,https://stream.oktraffic.org/delay-stream/75393abdf15e0b95.stream/playlist.m3u8,35.435499,-97.485824
+I-40 & I-35 E,https://stream.oktraffic.org/delay-stream/1a0e8ff163868976.stream/playlist.m3u8,35.462333,-97.490531
+I-40 & I-35 SW,https://stream.oktraffic.org/delay-stream/f1e2836cda403538.stream/playlist.m3u8,35.462333,-97.490531
+I-40 & Shields N,https://stream.oktraffic.org/delay-stream/2ef6f4aa89766739.stream/playlist.m3u8,35.455475,-97.514
+I-40 & Shields S,https://stream.oktraffic.org/delay-stream/f4c9a88ef928beaf.stream/playlist.m3u8,35.455475,-97.514
+I-40 & Shields E,https://stream.oktraffic.org/delay-stream/440d47956646fc01.stream/playlist.m3u8,35.455475,-97.514
+I-40 & Shields W,https://stream.oktraffic.org/delay-stream/c0b84079de118c22.stream/playlist.m3u8,35.455475,-97.514
+I-40 & Reno N,https://stream.oktraffic.org/delay-stream/8b96dd6f69be9376.stream/playlist.m3u8,35.463533,-97.461758
+I-40 & Reno NW,https://stream.oktraffic.org/delay-stream/3b02b969ee1fa894.stream/playlist.m3u8,35.463533,-97.461758
+I-40 & Reno SE,https://stream.oktraffic.org/delay-stream/ea7000924415621b.stream/playlist.m3u8,35.463533,-97.461758
+I-40 & Reno,https://stream.oktraffic.org/delay-stream/18c829aaddd29be4.stream/playlist.m3u8,35.463533,-97.461758
+I-40 & S29th NW,https://stream.oktraffic.org/delay-stream/d4b550f212bc0ac2.stream/playlist.m3u8,35.43517,-97.40991
+I-40 & S29th E,https://stream.oktraffic.org/delay-stream/60d2f2c4893b94e8.stream/playlist.m3u8,35.43517,-97.40991
+I-40 & S29th,https://stream.oktraffic.org/delay-stream/eb0440e2a20897dd.stream/playlist.m3u8,35.43517,-97.40991
+I-40 & Air Depot N,https://stream.oktraffic.org/delay-stream/c6a8fc4e9c31a348.stream/playlist.m3u8,35.43441,-97.40589
+I-40 & Air Depot S,https://stream.oktraffic.org/delay-stream/b9e473e5966f9040.stream/playlist.m3u8,35.43441,-97.40589
+I-40 & Air Depot E,https://stream.oktraffic.org/delay-stream/27e3a781a70048ab.stream/playlist.m3u8,35.43441,-97.40589
+I-40 & Air Depot W,https://stream.oktraffic.org/delay-stream/4ca1def3460359af.stream/playlist.m3u8,35.43441,-97.40589
+I-40 & Air Depot,https://stream.oktraffic.org/delay-stream/514b0cee5919eac6.stream/playlist.m3u8,35.43441,-97.40589
+I-40 & Eaker Gate E,https://stream.oktraffic.org/delay-stream/06cf42c7f8aba779.stream/playlist.m3u8,35.43455,-97.39814
+I-40 & Eaker Gate N,https://stream.oktraffic.org/delay-stream/6c455e37e04de9c9.stream/playlist.m3u8,35.43455,-97.39814
+I-40 & Eaker Gate W,https://stream.oktraffic.org/delay-stream/9042d0d2f912ecf8.stream/playlist.m3u8,35.43455,-97.39814
+I-40 & Eaker Gate S,https://stream.oktraffic.org/delay-stream/67cd3065807a0fe6.stream/playlist.m3u8,35.43455,-97.39814
+I-40 & Eaker Gate,https://stream.oktraffic.org/delay-stream/6fa1234e703e5d12.stream/playlist.m3u8,35.43455,-97.39814
+I-40 & A Ave E,https://stream.oktraffic.org/delay-stream/458c7dc61347e682.stream/playlist.m3u8,35.4352,-97.38692
+I-40 & A Ave W,https://stream.oktraffic.org/delay-stream/0691cdd8fb2f6f7a.stream/playlist.m3u8,35.4352,-97.38692
+I-40 & Douglas N,https://stream.oktraffic.org/delay-stream/c6ab63bd285ee231.stream/playlist.m3u8,35.4312,-97.37056
+I-40 & Douglas E,https://stream.oktraffic.org/delay-stream/fa84e493cc5ee7f7.stream/playlist.m3u8,35.4312,-97.37056
+I-40 & Douglas W,https://stream.oktraffic.org/delay-stream/b95d9543d88a6884.stream/playlist.m3u8,35.4312,-97.37056
+I-40 & Douglas,https://stream.oktraffic.org/delay-stream/fe9c40f34961faa5.stream/playlist.m3u8,35.4312,-97.37056
+OKC Blvd & Lee E,https://stream.oktraffic.org/delay-stream/db64e118a412e041.stream/playlist.m3u8,35.462514,-97.523919
+OKC Blvd & Lee NW,https://stream.oktraffic.org/delay-stream/60c47a2aa68a4890.stream/playlist.m3u8,35.462514,-97.523919
+OKC Blvd & Lee,https://stream.oktraffic.org/delay-stream/f53600bfba588637.stream/playlist.m3u8,35.462514,-97.523919
+I-35 & Reno E,https://stream.oktraffic.org/delay-stream/f4e478e10db95db1.stream/playlist.m3u8,35.464069,-97.473067
+I-35 & Reno SW,https://stream.oktraffic.org/delay-stream/b0cb840459449f84.stream/playlist.m3u8,35.464069,-97.473067
+I-35 & Reno,https://stream.oktraffic.org/delay-stream/fd9df1df1535b3b0.stream/playlist.m3u8,35.464069,-97.473067
+I-44 & W I-244 E,https://stream.oktraffic.org/delay-stream/befe4da0a7313902.stream/playlist.m3u8,36.08797,-96.04051
+I-44 & W I-244,https://stream.oktraffic.org/delay-stream/1a5dde66b587817c.stream/playlist.m3u8,36.08797,-96.04051
+I-244 & SW Blvd N,https://stream.oktraffic.org/delay-stream/3b086e3c742320d9.stream/playlist.m3u8,36.12221084,-96.00868937
+I-244 & SW Blvd S,https://stream.oktraffic.org/delay-stream/7e7af94a064a2d63.stream/playlist.m3u8,36.12221084,-96.00868937
+I-244 & US-169 E,https://stream.oktraffic.org/delay-stream/07e691956d3b79cf.stream/playlist.m3u8,36.16498,-95.85945
+I-44 & E I-244 SW,https://stream.oktraffic.org/hls/1f975a2eb1ffaa38.stream/playlist.m3u8,36.161382,-95.826574
+I-44 & E I-244 NW,https://stream.oktraffic.org/hls/ceccc91d7b5dfd75.stream/playlist.m3u8,36.161382,-95.826574
+I-44 & E I-244,https://stream.oktraffic.org/delay-stream/27bd0c996fa37563.stream/playlist.m3u8,36.161382,-95.826574
+SH-51 & US-64/75 N,https://stream.oktraffic.org/hls/5692b044635b0595.stream/playlist.m3u8,36.14181,-95.97939
+SH-51 & US-64/75 E,https://stream.oktraffic.org/hls/7db257a94a7d6dcf.stream/playlist.m3u8,36.14181,-95.97939
+SH-51 & US-64/75 W,https://stream.oktraffic.org/hls/dbac00dcf5a79a8a.stream/playlist.m3u8,36.14181,-95.97939
+SH-51 & US-64/75,https://stream.oktraffic.org/delay-stream/a0c7346c2aa2fdab.stream/playlist.m3u8,36.14181,-95.97939
+I-44 & SH-51,https://stream.oktraffic.org/delay-stream/be2c6c2a858a6b5a.stream/playlist.m3u8,36.11393,-95.89715
+US-169 & SH-51 N,https://stream.oktraffic.org/hls/b6198315abc26ed5.stream/playlist.m3u8,36.09775,-95.8592
+US-169 & SH-51 S,https://stream.oktraffic.org/hls/6937da3618b18db4.stream/playlist.m3u8,36.09775,-95.8592
+US-169 & SH-51 NW,https://stream.oktraffic.org/hls/478980318f940c46.stream/playlist.m3u8,36.09775,-95.8592
+US-169 & SH-51 SE,https://stream.oktraffic.org/hls/8776cc88ab3a7c83.stream/playlist.m3u8,36.09775,-95.8592
+US-169 & SH-51,https://stream.oktraffic.org/delay-stream/825520a8861f57e0.stream/playlist.m3u8,36.09775,-95.8592
+SH-51 & E129th NW,https://stream.oktraffic.org/delay-stream/30b524001f1269fa.stream/playlist.m3u8,36.08578,-95.82837
+SH-51 & E129th SE,https://stream.oktraffic.org/delay-stream/a5c28faa6d834600.stream/playlist.m3u8,36.08578,-95.82837
+SH-51 & E129th,https://stream.oktraffic.org/delay-stream/624f951ec5b3657f.stream/playlist.m3u8,36.08578,-95.82837
+I-44 & US-169 N,https://stream.oktraffic.org/delay-stream/1876a1dbfea223a7.stream/playlist.m3u8,36.13892,-95.86049
+I-44 & US-169 S,https://stream.oktraffic.org/delay-stream/445e5dd4f1aade1e.stream/playlist.m3u8,36.13892,-95.86049
+I-44 & US-169 NE,https://stream.oktraffic.org/delay-stream/ef31c6632f7eead7.stream/playlist.m3u8,36.13892,-95.86049
+I-235 & N13th S,https://stream.oktraffic.org/delay-stream/d599d75f89f212c9.stream/playlist.m3u8,35.48214091,-97.51050174
+I-235 & N13th W,https://stream.oktraffic.org/delay-stream/4b4afa4658bba1e1.stream/playlist.m3u8,35.48214091,-97.51050174
+I-235 & N13th,https://stream.oktraffic.org/delay-stream/9f8508693d1eb0a0.stream/playlist.m3u8,35.48214091,-97.51050174
+I-235 & N23rd N,https://stream.oktraffic.org/delay-stream/2329e66dfa72d330.stream/playlist.m3u8,35.49209705,-97.51129835
+I-235 & N23rd S,https://stream.oktraffic.org/delay-stream/0c9be4f7bf0c94de.stream/playlist.m3u8,35.49209705,-97.51129835
+I-235 & N36th N,https://stream.oktraffic.org/delay-stream/9bf912b6a98f8c1e.stream/playlist.m3u8,35.50887623,-97.51498773
+I-235 & N36th E,https://stream.oktraffic.org/delay-stream/704365898580f3fe.stream/playlist.m3u8,35.50887623,-97.51498773
+I-235 & N36th W,https://stream.oktraffic.org/delay-stream/b932de83ab8ba8b1.stream/playlist.m3u8,35.50887623,-97.51498773
+I-235 & N36th,https://stream.oktraffic.org/delay-stream/d56587a69d43dd22.stream/playlist.m3u8,35.50887623,-97.51498773
+I-35 & S15th N,https://stream.oktraffic.org/delay-stream/174cd5326291a61e.stream/playlist.m3u8,35.44961233,-97.48711422
+I-35 & S15th S,https://stream.oktraffic.org/delay-stream/5ad5a4fa1e9db769.stream/playlist.m3u8,35.44961233,-97.48711422
+I-35 & S15th E,https://stream.oktraffic.org/delay-stream/e843fbe452a983ef.stream/playlist.m3u8,35.44961233,-97.48711422
+I-35 & S15th W,https://stream.oktraffic.org/delay-stream/f3a35dccac418e0b.stream/playlist.m3u8,35.44961233,-97.48711422
+I-35 & S15th,https://stream.oktraffic.org/delay-stream/c4670e5bcae6b870.stream/playlist.m3u8,35.44961233,-97.48711422
+I-35 & S66th N,https://stream.oktraffic.org/delay-stream/98344742e9530fd3.stream/playlist.m3u8,35.39924263,-97.49541565
+I-35 & S66th S,https://stream.oktraffic.org/delay-stream/27b74b3ec70d4277.stream/playlist.m3u8,35.39924263,-97.49541565
+I-35 & S66th E,https://stream.oktraffic.org/delay-stream/2a6226b839d143b8.stream/playlist.m3u8,35.39924263,-97.49541565
+I-35 & S66th W,https://stream.oktraffic.org/delay-stream/ecda0824d5f9b108.stream/playlist.m3u8,35.39924263,-97.49541565
+I-35 & S66th,https://stream.oktraffic.org/delay-stream/cec0c1c62318eea3.stream/playlist.m3u8,35.39924263,-97.49541565
+I-35 & S44th N,https://stream.oktraffic.org/delay-stream/ca52a7ae1e7460c3.stream/playlist.m3u8,35.42054823,-97.4886243
+I-35 & S44th S,https://stream.oktraffic.org/delay-stream/ea9292e7842b803a.stream/playlist.m3u8,35.42054823,-97.4886243
+I-35 & S44th E,https://stream.oktraffic.org/delay-stream/00a9fa32bb64a9c5.stream/playlist.m3u8,35.42054823,-97.4886243
+I-35 & S44th W,https://stream.oktraffic.org/delay-stream/7dd427233322f2c9.stream/playlist.m3u8,35.42054823,-97.4886243
+I-35 & S44th,https://stream.oktraffic.org/delay-stream/c4ba85cf79c75d55.stream/playlist.m3u8,35.42054823,-97.4886243
+I-40 & I-235 S,https://stream.oktraffic.org/delay-stream/8d1372d2af88f24e.stream/playlist.m3u8,35.46259723,-97.49594271
+I-40 & I-235 N,https://stream.oktraffic.org/delay-stream/eb42612f4f8289ba.stream/playlist.m3u8,35.46259723,-97.49594271
+I-40 & I-235 W,https://stream.oktraffic.org/delay-stream/0656d0bf7c694844.stream/playlist.m3u8,35.46259723,-97.49594271
+I-40 & I-235 E,https://stream.oktraffic.org/delay-stream/a8a8d1bbd7f71c3c.stream/playlist.m3u8,35.46259723,-97.49594271
+I-35 & I-44 N,https://stream.oktraffic.org/delay-stream/3f39298fbde82f0b.stream/playlist.m3u8,35.538508,-97.460944
+I-35 & I-44 S,https://stream.oktraffic.org/delay-stream/7f371b1442cdf2ca.stream/playlist.m3u8,35.538508,-97.460944
+I-35 & I-44 W,https://stream.oktraffic.org/delay-stream/6e8b931b821f4250.stream/playlist.m3u8,35.538508,-97.460944
+I-44 & Lincoln W,https://stream.oktraffic.org/delay-stream/50e7fc20c84b6248.stream/playlist.m3u8,35.52921,-97.50356
+I-44 & Lincoln E,https://stream.oktraffic.org/delay-stream/2433473556144b83.stream/playlist.m3u8,35.52921,-97.50356
+US-169 & 61st NB,https://stream.oktraffic.org/delay-stream/3c73f9949522b79a.stream/playlist.m3u8,36.07579572,-95.85921049
+US-169 & 61st SB,https://stream.oktraffic.org/delay-stream/18ad3d7f50bc1f8c.stream/playlist.m3u8,36.07579572,-95.85921049
+US-169 & 61st EB,https://stream.oktraffic.org/delay-stream/c1a0834b0330248c.stream/playlist.m3u8,36.07579572,-95.85921049
+US-169 & 61st WB,https://stream.oktraffic.org/delay-stream/3aaa4998c28324d1.stream/playlist.m3u8,36.07579572,-95.85921049
+US-169 & 61st,https://stream.oktraffic.org/delay-stream/9998fe4e43717a97.stream/playlist.m3u8,36.07579572,-95.85921049
+US-169 & Pine NB,https://stream.oktraffic.org/delay-stream/d13ca4902b47c5fe.stream/playlist.m3u8,36.17722817,-95.85656047
+US-169 & Pine SB,https://stream.oktraffic.org/delay-stream/8bd83f690b5547b4.stream/playlist.m3u8,36.17722817,-95.85656047
+US-169 & Pine EB,https://stream.oktraffic.org/delay-stream/c0c6635fcacf1b61.stream/playlist.m3u8,36.17722817,-95.85656047
+US-169 & Pine WB,https://stream.oktraffic.org/delay-stream/eb5fd1bbde823d29.stream/playlist.m3u8,36.17722817,-95.85656047
+US-169 & Pine,https://stream.oktraffic.org/delay-stream/b86ec3f017d15888.stream/playlist.m3u8,36.17722817,-95.85656047
+I-44 & Yale,https://stream.oktraffic.org/delay-stream/a75afd53b647aa4d.stream/playlist.m3u8,36.09528275,-95.92279226
+I-44 & Yale N,https://stream.oktraffic.org/delay-stream/f42e971829272bad.stream/playlist.m3u8,36.09528275,-95.92279226
+I-44 & Yale S,https://stream.oktraffic.org/delay-stream/3a7f2235ed2adc77.stream/playlist.m3u8,36.09528275,-95.92279226
+I-44 & Yale NE,https://stream.oktraffic.org/delay-stream/1c950d9e0ed7481e.stream/playlist.m3u8,36.09528275,-95.92279226
+I-44 & Yale SW,https://stream.oktraffic.org/delay-stream/3c7b040c26feaf23.stream/playlist.m3u8,36.09528275,-95.92279226
+I-44 & 41st,https://stream.oktraffic.org/delay-stream/4d90914497a237f1.stream/playlist.m3u8,36.1026692,-95.91293782
+I-44 & 41st N,https://stream.oktraffic.org/delay-stream/4a02b926ac54f4e4.stream/playlist.m3u8,36.1026692,-95.91293782
+I-44 & 41st NE,https://stream.oktraffic.org/delay-stream/6a2ab7bfc5fce283.stream/playlist.m3u8,36.1026692,-95.91293782
+I-44 & 41st SW,https://stream.oktraffic.org/delay-stream/7f262a2c1975a9ed.stream/playlist.m3u8,36.1026692,-95.91293782
+SH-51 & Lewis,https://stream.oktraffic.org/delay-stream/aee4673fa16a5895.stream/playlist.m3u8,36.14292851,-95.95861048
+SH-51 & Lewis NB,https://stream.oktraffic.org/delay-stream/bfbbe6c8463ba149.stream/playlist.m3u8,36.14292851,-95.95861048
+SH-51 & Lewis SB,https://stream.oktraffic.org/delay-stream/a3c104c36510c799.stream/playlist.m3u8,36.14292851,-95.95861048
+SH-51 & Lewis EB,https://stream.oktraffic.org/delay-stream/833cd88eb8441fc1.stream/playlist.m3u8,36.14292851,-95.95861048
+SH-51 & Lewis WB,https://stream.oktraffic.org/delay-stream/f166dbdecbb77956.stream/playlist.m3u8,36.14292851,-95.95861048
+SH-51 & Sheridan,https://stream.oktraffic.org/delay-stream/494feba0bd385d0e.stream/playlist.m3u8,36.11549118,-95.90493947
+SH-51 & Sheridan NB,https://stream.oktraffic.org/delay-stream/09d622f3fd4e191d.stream/playlist.m3u8,36.11549118,-95.90493947
+SH-51 & Sheridan SB,https://stream.oktraffic.org/delay-stream/23dde902445031d4.stream/playlist.m3u8,36.11549118,-95.90493947
+SH-51 & Sheridan EB,https://stream.oktraffic.org/delay-stream/495a55110ceb96b2.stream/playlist.m3u8,36.11549118,-95.90493947
+SH-51 & Sheridan WB,https://stream.oktraffic.org/delay-stream/87f83f6fc3edd379.stream/playlist.m3u8,36.11549118,-95.90493947
+I-44 & E 11th St,https://stream.oktraffic.org/delay-stream/93a90876afefdaa5.stream/playlist.m3u8,36.148332,-95.847091
+I-44 & E 11th St NE,https://stream.oktraffic.org/delay-stream/525f64877af0a686.stream/playlist.m3u8,36.148332,-95.847091
+I-44 & E 11th St E,https://stream.oktraffic.org/delay-stream/1d1612d6a05914f4.stream/playlist.m3u8,36.148332,-95.847091
+I-44 & E 21st St,https://stream.oktraffic.org/delay-stream/c91d3139a901bb51.stream/playlist.m3u8,36.133815,-95.86756
+I-44 & E 21st St,https://stream.oktraffic.org/delay-stream/395a13e30e2ea281.stream/playlist.m3u8,36.133815,-95.86756
+I-44 & E 21st St,https://stream.oktraffic.org/delay-stream/8b19d1d3450eb533.stream/playlist.m3u8,36.133815,-95.86756
+I-44 & E 21st St,https://stream.oktraffic.org/delay-stream/1bd4b5a8c91b9dc6.stream/playlist.m3u8,36.133815,-95.86756
+I-44 & E 21st St,https://stream.oktraffic.org/delay-stream/22c1cda4ab76a158.stream/playlist.m3u8,36.133815,-95.86756
+I-44 & Memorial,https://stream.oktraffic.org/delay-stream/fc12863115b3ebb5.stream/playlist.m3u8,36.120442,-95.886352
+I-44 & Memorial S,https://stream.oktraffic.org/delay-stream/a3cd85f93ea670bb.stream/playlist.m3u8,36.120442,-95.886352
+I-44 & Memorial NE,https://stream.oktraffic.org/delay-stream/9237528633f9fe9a.stream/playlist.m3u8,36.120442,-95.886352
+I-44 & Memorial SW,https://stream.oktraffic.org/delay-stream/80549c4c906c3b69.stream/playlist.m3u8,36.120442,-95.886352
+I-44 & N 165th E,https://stream.oktraffic.org/delay-stream/e5cef5f9ad8f10a4.stream/playlist.m3u8,36.16283835,-95.79671502
+I-44 & N 165th E EB,https://stream.oktraffic.org/delay-stream/5d56965b939ed033.stream/playlist.m3u8,36.16283835,-95.79671502
+I-44 & N 165th E WB,https://stream.oktraffic.org/delay-stream/3429cba2e0c23549.stream/playlist.m3u8,36.16283835,-95.79671502
+I-44 & S 129th E N,https://stream.oktraffic.org/delay-stream/e0f9d8294c55bf07.stream/playlist.m3u8,36.158389,-95.832829
+I-44 & S 129th E S,https://stream.oktraffic.org/delay-stream/f655aac0e2fa7217.stream/playlist.m3u8,36.158389,-95.832829
+I-44 & S 129th E NE,https://stream.oktraffic.org/delay-stream/733df0ba836522de.stream/playlist.m3u8,36.158389,-95.832829
+I-244 & Garnett,https://stream.oktraffic.org/delay-stream/c0e202eff3573079.stream/playlist.m3u8,36.16646877,-95.85071459
+I-244 & Garnett NB,https://stream.oktraffic.org/delay-stream/db25fc8a79cc13a6.stream/playlist.m3u8,36.16646877,-95.85071459
+I-244 & Garnett SB,https://stream.oktraffic.org/delay-stream/4065c34d01db7af9.stream/playlist.m3u8,36.16646877,-95.85071459
+I-244 & Garnett EB,https://stream.oktraffic.org/delay-stream/cb9a992ccb278fa8.stream/playlist.m3u8,36.16646877,-95.85071459
+I-244 & Garnett WB,https://stream.oktraffic.org/delay-stream/03a6e377dfa6997e.stream/playlist.m3u8,36.16646877,-95.85071459
+I-244 & Memorial NB,https://stream.oktraffic.org/delay-stream/d87a9d3a35665d59.stream/playlist.m3u8,36.16223811,-95.88692307
+I-244 & Memorial SB,https://stream.oktraffic.org/delay-stream/e53440489a7c171d.stream/playlist.m3u8,36.16223811,-95.88692307
+I-244 & Memorial WB,https://stream.oktraffic.org/delay-stream/587a8957f799c96f.stream/playlist.m3u8,36.16223811,-95.88692307
+I-244 & Memorial,https://stream.oktraffic.org/delay-stream/7689cebb6dee72a9.stream/playlist.m3u8,36.16223811,-95.88692307
+I-244 & N 129th E NB,https://stream.oktraffic.org/delay-stream/9338dda86a63f663.stream/playlist.m3u8,36.16575985,-95.83312064
+I-244 & N 129th E EB,https://stream.oktraffic.org/delay-stream/c601afd1cddc4c16.stream/playlist.m3u8,36.16575985,-95.83312064
+I-244 & N 129th E WB,https://stream.oktraffic.org/delay-stream/3803c96a446e4e7f.stream/playlist.m3u8,36.16575985,-95.83312064
+I-244 & N 129th E,https://stream.oktraffic.org/delay-stream/cb02f2e078e218c0.stream/playlist.m3u8,36.16575985,-95.83312064
+I-244 & US-412 N,https://stream.oktraffic.org/delay-stream/40b50fd9f7d1a373.stream/playlist.m3u8,36.15944045,-96.00216933
+I-244 & US-412 S,https://stream.oktraffic.org/delay-stream/1a7396be6ae7173a.stream/playlist.m3u8,36.15944045,-96.00216933
+I-244 & US-412 E,https://stream.oktraffic.org/delay-stream/8dff2ff66d8055d6.stream/playlist.m3u8,36.15944045,-96.00216933
+I-244 & US-412 W,https://stream.oktraffic.org/delay-stream/049e655b8a2e27be.stream/playlist.m3u8,36.15944045,-96.00216933
+I-244 & US-412,https://stream.oktraffic.org/delay-stream/eb9f324bc6d13200.stream/playlist.m3u8,36.15944045,-96.00216933
+I-244 & US-75 S N,https://stream.oktraffic.org/delay-stream/117c0c4a37130893.stream/playlist.m3u8,36.158675,-95.979539
+I-244 & US-75 S S,https://stream.oktraffic.org/delay-stream/4b878b1c8ad771e4.stream/playlist.m3u8,36.158675,-95.979539
+I-244 & US-75 S E,https://stream.oktraffic.org/delay-stream/e02119c9f8b40e02.stream/playlist.m3u8,36.158675,-95.979539
+I-244 & US-75 S W,https://stream.oktraffic.org/delay-stream/77bbb2dcf4589eaa.stream/playlist.m3u8,36.158675,-95.979539
+I-244 & US-75 S,https://stream.oktraffic.org/delay-stream/0b9a97bc763ace6f.stream/playlist.m3u8,36.158675,-95.979539
+I-244 & US-75 N S,https://stream.oktraffic.org/delay-stream/7d30b10f23dbf756.stream/playlist.m3u8,36.160796,-95.980449
+I-244 & US-75 N E,https://stream.oktraffic.org/delay-stream/0d117937131a92e9.stream/playlist.m3u8,36.160796,-95.980449
+I-244 & US-75 N W,https://stream.oktraffic.org/delay-stream/bf07e55f7e6a6db3.stream/playlist.m3u8,36.160796,-95.980449
+I-244 & US-75 N,https://stream.oktraffic.org/delay-stream/ada31d69abf13975.stream/playlist.m3u8,36.160796,-95.980449
+I-244 & US-75 N,https://stream.oktraffic.org/delay-stream/ada31d69abf13975.stream/playlist.m3u8,36.160796,-95.980449
+US-75 & Denver N,https://stream.oktraffic.org/delay-stream/f11979e8d01bdd70.stream/playlist.m3u8,36.14456271,-95.99211529
+US-75 & Denver S,https://stream.oktraffic.org/delay-stream/a3d21afc79e04308.stream/playlist.m3u8,36.14456271,-95.99211529
+US-75 & Denver E,https://stream.oktraffic.org/delay-stream/0227f898af573b20.stream/playlist.m3u8,36.14456271,-95.99211529
+US-75 & Denver W,https://stream.oktraffic.org/delay-stream/c1b8b65ce417e946.stream/playlist.m3u8,36.14456271,-95.99211529
+US-75 & Denver,https://stream.oktraffic.org/delay-stream/95d871e1016a0c2e.stream/playlist.m3u8,36.14456271,-95.99211529
+US-412 & Creek NB,https://stream.oktraffic.org/delay-stream/8f6e628599d9a214.stream/playlist.m3u8,36.16255354,-95.73171705
+US-412 & Creek SB,https://stream.oktraffic.org/delay-stream/d4375c44fcf48805.stream/playlist.m3u8,36.16255354,-95.73171705
+US-412 & Creek WB,https://stream.oktraffic.org/delay-stream/526320484979a5c1.stream/playlist.m3u8,36.16255354,-95.73171705
+US-412 & Creek,https://stream.oktraffic.org/delay-stream/29ac0ddb95d43b51.stream/playlist.m3u8,36.16255354,-95.73171705
+I-235 & Sheridan N,https://stream.oktraffic.org/delay-stream/ddb1c1b552a69e00.stream/playlist.m3u8,35.466328,-97.499822
+I-235 & Sheridan,https://stream.oktraffic.org/delay-stream/3e77fe4728ffde83.stream/playlist.m3u8,35.466328,-97.499822
+I-235 & 6th N,https://stream.oktraffic.org/delay-stream/18b31497accbc320.stream/playlist.m3u8,35.473678,-97.507961
+I-235 & 6th SE,https://stream.oktraffic.org/delay-stream/29fb2de5e7c1ad66.stream/playlist.m3u8,35.473678,-97.507961
+I-235 & 6th W,https://stream.oktraffic.org/delay-stream/f3fba9a71a7a8ba8.stream/playlist.m3u8,35.473678,-97.507961
+I-35 & SH-51 S,https://stream.oktraffic.org/delay-stream/cf463c4db823520c.stream/playlist.m3u8,36.11611481,-97.34512724
+I-35 & Chikaskia River NB,https://stream.oktraffic.org/delay-stream/4c1719d6cead9009.stream/playlist.m3u8,36.90651602,-97.35317387
+US-62 & 52nd,https://stream.oktraffic.org/hls/1b607403a290d41c.stream/playlist.m3u8,34.638166,-98.456842
+US-62 & 52nd,https://stream.oktraffic.org/hls/020d7dab642ba617.stream/playlist.m3u8,34.638166,-98.456842
+US-62 & Ft Sill N,https://stream.oktraffic.org/hls/e314153923882a76.stream/playlist.m3u8,34.6386,-98.405091
+US-62 & Ft Sill E,https://stream.oktraffic.org/hls/85c8bd12d4b3f44e.stream/playlist.m3u8,34.6386,-98.405091
+US-62 & Sheridan N,https://stream.oktraffic.org/hls/b9cbbb40078811c8.stream/playlist.m3u8,34.637933,-98.421649
+US-62 & Sheridan E,https://stream.oktraffic.org/hls/d5b8939f00f9c727.stream/playlist.m3u8,34.637933,-98.421649
+US-62 & Sheridan W,https://stream.oktraffic.org/hls/6b94372e416dad4c.stream/playlist.m3u8,34.637933,-98.421649
+I-44 & Sheridan (Key Gate) N,https://stream.oktraffic.org/hls/11cefc53617ccfe3.stream/playlist.m3u8,34.660625,-98.38234
+I-44 & Sheridan (Key Gate) E,https://stream.oktraffic.org/hls/2e6a650efbdb336d.stream/playlist.m3u8,34.660625,-98.38234
+I-44 & Sheridan (Key Gate) W,https://stream.oktraffic.org/hls/5a3f05cf4906d840.stream/playlist.m3u8,34.660625,-98.38234
+US-169 & N 46th S,https://stream.oktraffic.org/delay-stream/f6999ee027c70405.stream/playlist.m3u8,36.22023407,-95.85207809
+US-169 & N 46th E,https://stream.oktraffic.org/delay-stream/04c0e514c05a610c.stream/playlist.m3u8,36.22023407,-95.85207809
+US-169 & N 46th W,https://stream.oktraffic.org/delay-stream/1df1bbf36b5e22be.stream/playlist.m3u8,36.22023407,-95.85207809
+US-169 & E 36th St N,https://stream.oktraffic.org/delay-stream/4ab69d9305457a4a.stream/playlist.m3u8,36.20578987,-95.85200701
+US-169 & E 36th St N,https://stream.oktraffic.org/delay-stream/4eb17e18d41c7c1f.stream/playlist.m3u8,36.20578987,-95.85200701
+US-169 & E 36th St S,https://stream.oktraffic.org/delay-stream/d3df9af5032b1cff.stream/playlist.m3u8,36.20578987,-95.85200701
+US-169 & E 36th St E,https://stream.oktraffic.org/delay-stream/c0fd68f6d53c4cdd.stream/playlist.m3u8,36.20578987,-95.85200701
+US-169 & E 36th St W,https://stream.oktraffic.org/delay-stream/2509fd2b1b1edfb4.stream/playlist.m3u8,36.20578987,-95.85200701
+SH-51 & Elm SB,https://stream.oktraffic.org/delay-stream/26e3bd805b518b89.stream/playlist.m3u8,36.07067354,-95.79721562
+SH-51 & Elm EB,https://stream.oktraffic.org/delay-stream/8437562581e97381.stream/playlist.m3u8,36.07067354,-95.79721562
+I-40 & Byers E,https://stream.oktraffic.org/delay-stream/cbbc6fec23c1987f.stream/playlist.m3u8,35.461478,-97.501475
+I-40 & Byers S,https://stream.oktraffic.org/delay-stream/0698286fb8305424.stream/playlist.m3u8,35.461478,-97.501475
+Apache Gate N,https://stream.oktraffic.org/hls/83f4bd8c039f1cb1.stream/playlist.m3u8,34.710184,-98.405195
+Kilpatrick Tpk & Eastern EB,https://stream.oktraffic.org/delay-stream/3aba1b80763d5548.stream/playlist.m3u8,35.601159,-97.46968
+Kilpatrick Tpk & Eastern WB,https://stream.oktraffic.org/delay-stream/877d213c99a547cb.stream/playlist.m3u8,35.601159,-97.46968
+I-35 & S 25th NB DMS Cam,https://stream.oktraffic.org/delay-stream/4ffe969723d04ace.stream/playlist.m3u8,35.62976773,-97.42464522
+I-35 SB & S 25th SB DMS Cam,https://stream.oktraffic.org/delay-stream/36a80ec3f6c87cf5.stream/playlist.m3u8,35.63085571,-97.4246386
+I-44 & S 96th EB,https://stream.oktraffic.org/delay-stream/c343c94d7ca08f8c.stream/playlist.m3u8,35.37111421,-97.57730381
+I-44 & S 96th WB,https://stream.oktraffic.org/delay-stream/d61fafed02674433.stream/playlist.m3u8,35.37111421,-97.57730381
+Turner Tpk & OKC EB,https://stream.oktraffic.org/delay-stream/cda162802abf7e25.stream/playlist.m3u8,35.60343357,-97.40374545
+TurnerTpk & OKC WB,https://stream.oktraffic.org/delay-stream/95b3c9d2fce97e56.stream/playlist.m3u8,35.60343357,-97.40374545
+I-35 & Kay POE SB,https://stream.oktraffic.org/delay-stream/303786ed2f94db24.stream/playlist.m3u8,36.98480862,-97.34557906
+I-35 & Kay POE NB,https://stream.oktraffic.org/delay-stream/25900d349bf161de.stream/playlist.m3u8,36.98480862,-97.34557906
